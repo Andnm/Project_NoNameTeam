@@ -1,0 +1,10 @@
+<svg data-name="icon - cart" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+    <defs>
+        <clipPath id="e8xa0wf9va">
+            <path data-name="Rectangle 18107" transform="translate(0 -.18)" style="stroke:#707070;fill:#fff" d="M0 0h32v32H0z"/>
+        </clipPath>
+    </defs>
+    <g style="clip-path:url(#e8xa0wf9va)">
+        <path data-name="icon - cart" d="M13.333 14.222A1.778 1.778 0 1 1 15.111 16a1.78 1.78 0 0 1-1.778-1.778zm-8 0A1.778 1.778 0 1 1 7.113 16a1.778 1.778 0 0 1-1.779-1.778zm1.423-2.667A1.743 1.743 0 0 1 5.105 10.3L2.183 1.8c0-.01-.006-.016-.009-.024H.889A.889.889 0 1 1 .889 0h1.335a1.741 1.741 0 0 1 1.649 1.252l.487 1.417H17.335a1.691 1.691 0 0 1 1.455.811 1.958 1.958 0 0 1 .2 1.566.519.519 0 0 1-.024.073l-2.039 5.318a1.67 1.67 0 0 1-.628.8 1.8 1.8 0 0 1-1.007.323zm.038-1.8c0 .007.006.016.009.021h8.473l2.01-5.245a.209.209 0 0 0 0-.084H4.97z" transform="translate(6 8)" style="fill:#fff"/>
+    </g>
+</svg>

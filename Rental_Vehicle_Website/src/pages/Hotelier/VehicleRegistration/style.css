@@ -1,0 +1,53 @@
+.edit__vehicle__item {
+  font-size: 50px;
+  z-index: 999;
+  cursor: pointer;
+  background-color: blanchedalmond;
+  height: 70px;
+  transition: 0.5s ease-in-out;
+  width: 50px;
+}
+
+.edit__vehicle__item:hover {
+  transition: 0.5s ease-in-out;
+  transform: scale(1.15);
+}
+
+.delete__vehicle__item {
+  width: 50px;
+  font-size: 50px;
+  z-index: 999;
+  cursor: pointer;
+  background-color: red;
+  height: 70px;
+  transition: 0.5s ease-in-out;
+}
+
+.handle__detail__vehicle {
+  position: absolute;
+  display: flex;
+  top: 0;
+  right: 50px;
+}
+
+.delete__vehicle__item:hover {
+  transition: 0.5s ease-in-out;
+  transform: scale(1.15);
+}
+
+.card__item {
+  display: flex;
+}
+
+.upload__file {
+  cursor: pointer;
+  font-size: 20px;
+}
+
+.upload__file input{
+  width: 300px;
+}
+
+.button__upload {
+  height: 40px;
+}

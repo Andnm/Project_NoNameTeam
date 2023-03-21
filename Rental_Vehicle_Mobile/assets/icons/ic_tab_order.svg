@@ -1,0 +1,29 @@
+<svg data-name="icon - recipt" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+    <defs>
+        <clipPath id="od099an7ca">
+            <path transform="translate(998 284)" style="fill:#fff;stroke:#707070" d="M0 0h32v32H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="icon - recipt" transform="translate(-998 -284)" style="clip-path:url(#od099an7ca)">
+        <g data-name="Group 20646">
+            <g data-name="Group 20645">
+                <path data-name="Path 120850" d="M65.955.517A1 1 0 0 0 64.9.67l-1.358 1.151L61.689.239a1.016 1.016 0 0 0-1.308 0l-1.852 1.58-1.853-1.58a1.016 1.016 0 0 0-1.309 0l-1.853 1.582L52.151.67a1.008 1.008 0 0 0-1.376.077.906.906 0 0 0-.246.624v17.258a.954.954 0 0 0 .97.937 1 1 0 0 0 .654-.235l1.362-1.151 1.853 1.582a1.016 1.016 0 0 0 1.308 0l1.852-1.581 1.852 1.58a1.016 1.016 0 0 0 1.309 0l1.854-1.582 1.363 1.151a1.008 1.008 0 0 0 1.376-.077.906.906 0 0 0 .246-.625V1.371a.92.92 0 0 0-.573-.854zm-1.764 16.961a1.015 1.015 0 0 0-1.3 0l-1.853 1.582-1.852-1.58a1.016 1.016 0 0 0-1.308 0l-1.852 1.58-1.854-1.582a1.01 1.01 0 0 0-1.3 0l-1.362 1.15V1.368l1.361 1.151a1.015 1.015 0 0 0 1.3 0L56.023.937l1.852 1.58a1.016 1.016 0 0 0 1.308 0l1.852-1.58 1.854 1.582a1.01 1.01 0 0 0 1.3 0l1.358-1.151V18.628z" transform="translate(955.471 289.511)" style="stroke:#929394;stroke-width:.3px;fill:#929394"/>
+            </g>
+        </g>
+        <g data-name="Group 20648">
+            <g data-name="Group 20647">
+                <path data-name="Path 120851" d="M117.089 203.527h-7.935a.419.419 0 0 0 0 .837h7.935a.419.419 0 0 0 0-.837z" transform="translate(900.878 95.565)" style="fill:#929394"/>
+            </g>
+        </g>
+        <g data-name="Group 20650">
+            <g data-name="Group 20649">
+                <path data-name="Path 120852" d="M113.322 143.527h-4.168a.419.419 0 0 0 0 .837h4.168a.419.419 0 0 0 0-.837z" transform="translate(900.364 152.741)" style="fill:#929394"/>
+            </g>
+        </g>
+        <g data-name="Group 20652">
+            <g data-name="Group 20651">
+                <path data-name="Path 120853" d="M117.089 263.527h-7.935a.419.419 0 0 0 0 .837h7.935a.419.419 0 0 0 0-.837z" transform="translate(900.878 38.39)" style="fill:#929394"/>
+            </g>
+        </g>
+    </g>
+</svg>

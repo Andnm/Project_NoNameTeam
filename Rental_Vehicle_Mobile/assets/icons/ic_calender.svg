@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+    <defs>
+        <clipPath id="aulecfs2ga">
+            <path transform="translate(1152 -5580)" style="stroke:#707070;fill:#fff" d="M0 0h18v18H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="icon - calender" transform="translate(-1152 5580)" style="clip-path:url(#aulecfs2ga)">
+        <path data-name="Rectangle 18284" transform="translate(1154 -5573)" style="fill:#fff" d="M0 0h14v9H0z"/>
+        <path data-name="Path 121431" d="M14 2h-.667V.667A.667.667 0 0 0 12.667 0H12a.667.667 0 0 0-.667.667V2H4.667V.667A.667.667 0 0 0 4 0h-.667a.667.667 0 0 0-.667.667V2H2a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2zm.667 12a.668.668 0 0 1-.667.667H2A.668.668 0 0 1 1.333 14V6.693h13.334zm0 0" style="fill:#0083ed" transform="translate(1153 -5579)"/>
+    </g>
+</svg>
